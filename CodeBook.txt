@@ -1,0 +1,4 @@
+The code starts by downloading and unzipping the project files, and saved a copy of the zip on the directory.
+The following three sections of the code extracts and reassines the data to new variable names. These being: features, featuresWanted, measurements, train, trainActivities, trainSubjects, test, testActivities, and testSubjects.
+The fifth section the train dataset with the test dataset
+The last section reassembles the data in a neater format, and produces the final tidy data, saving it as 'tidyData.txt' in the directory. This dataset neatly contains the subjects numbers, activities and the mean values registered in the research.
